@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @k4rnaj1k
 - 👀 I’m interested in Computer Science, Programming(Java in particular 😊)
 - 🌱 I’m currently learning how to use databases in java, syntax and other boring stuff =)
-- 💞️ I’m looking to collaborate on anything really.
+- 💞️ Looking to collaborate on anything really.
 - 📫 How to reach me? vladliasota@gmail.com
 
 <!---
